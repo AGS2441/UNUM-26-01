@@ -1067,3 +1067,6 @@ input[type="radio"] {
         margin-block-start: 0rem !important;
     }
 }
+.img-l {
+    padding: 9px 7px 9px 10px;
+}
